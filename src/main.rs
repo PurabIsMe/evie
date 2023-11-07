@@ -15,6 +15,8 @@ fn main() {
 
     };
 
+    arbitrary_code = 999;
+
     name = "Head";
 
     beep_boop.init();
